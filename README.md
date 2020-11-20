@@ -11,6 +11,6 @@
 -->
 
 - 💻 I’m currently studying on University of Calabria.
-- 🌱 I’m currently learning Python🐍, JavaScript. 
+- 🌱 I’m currently learning Python🐍 and JavaScript. 
 - 📫 How to reach me: marioavolio1999@gmail.com
 

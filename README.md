@@ -35,6 +35,8 @@
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
+<img align="left" alt="Java" width="26px" src="https://camo.githubusercontent.com/67c33b70efaa565d82d96e2013cd232a6fd06cabc8c24df39d150ad2ffab6db8/68747470733a2f2f6c6f676f732d646f776e6c6f61642e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031362f31302f4a6176615f6c6f676f5f69636f6e2e706e67
+" />
 
 <br />
 <br />

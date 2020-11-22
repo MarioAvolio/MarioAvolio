@@ -35,8 +35,12 @@
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
-<img align="left" alt="Java" width="26px" src="https://www.tc-web.it/wp-content/uploads/2019/01/java.jpg" />
+<img align="left" alt="Java" width="26px" src="https://img1.pnghut.com/17/0/17/e4zuAKeStT/logo-java-development-kit-symbol-text.jpg" />
 
+<img align="left" alt="Python" width="26px" src="https://library.kissclipart.com/20181124/wrq/kissclipart-python-clipart-python-pandas-computer-icons-4078fb3a0a4a889b.jpg" />
+
+
+<img align="left" alt="Linux" width="26px" src="https://www.pinclipart.com/picdir/middle/345-3453335_linux-logo-png-download-png-image-with-transparent.png" />
 <br />
 <br />
 

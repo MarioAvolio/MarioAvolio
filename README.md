@@ -35,12 +35,6 @@
 
 <img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
 
-<img align="left" alt="Java" width="26px" src="https://www.tc-web.it/wp-content/uploads/2019/01/java.jpg" />
-
-<img align="left" alt="Python" width="26px" src="https://logos-download.com/wp-content/uploads/2016/10/Python_logo_icon-700x697.png" />
-
-
-<img align="left" alt="Linux" width="26px" src="https://logo-all.ru/uploads/posts/2018-07/0_linux_logo.jpg" />
 <br />
 <br />
 

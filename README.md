@@ -1,53 +1,28 @@
-### Hi there, I'm Mario  👋
+### Hi there 👋, My name is Mario
+#### I am a Computer Scientist
+![I am a Computer Scientist](https://github.com/MarioAvolio/Personal-Portfolio-WebSite/blob/main/img/aboutMeBackground.jpg?raw=true)
 
-## I'm a Developer
+I have many years experience creating software, mobile apps and websites for both myself, and for clients. I have experience programming in many different languages.
 
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love coding
+Skills: Python, Java, C++
 
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
-### Languages and Tools:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-
-<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-
-<img align="left" alt="C++" width="26px" src="https://raw.githubusercontent.com/isocpp/logos/master/cpp_logo.png" />
-
-<br />
-<br />
+- 🔭 I’m currently working on Many open source projects. 
+- 🌱 I’m currently learning Python 
+- 👯 I’m looking to collaborate on Everyone 
+- 📫 How to reach me: marioavolio@gmail.com 
+- ⚡ Fun fact: I love coding 
 
 
-</details>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarioAvolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](www.marioavolio.ml)  
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAvolio)](https://github.com/anuraghazra/github-readme-stats)
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAvolio&show_icons=true&count_private=true)  
 
-  <img align="left" alt="MarioAvolio's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=MarioAvolio&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarioAvolio)  
 
-</details>
+![GitHub metrics](https://metrics.lecoq.io/MarioAvolio)  
 
-[instagram]: https://www.instagram.com/marioavolio99/
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=MarioAvolio)  
 
+![Profile views](https://gpvc.arturio.dev/MarioAvolio)  

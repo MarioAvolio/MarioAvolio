@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mario
 #### I am a Computer Scientist
-![I am a Computer Scientist](https://github.com/MarioAvolio/Personal-Portfolio-WebSite/blob/main/img/aboutMeBackground.jpg?raw=true)
+![I am a Computer Scientist](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-577585.jpg&fm=jpg)
 
 I have many years experience creating software, mobile apps and websites for both myself, and for clients. I have experience programming in many different languages.
 

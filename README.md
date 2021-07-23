@@ -2,6 +2,7 @@
 #### I am a Computer Scientist
 ![I am a Computer Scientist](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-577585.jpg&fm=jpg)
 
+As you may have noticed software creation's demand is increasing nowadays. Unfortunately there's few people who are able to deliver satisfying results to their costumers. That's why I've started to give this service, not only has my passion given me many years of experience in software creation but also, especially thanks to my studies, I was able to learn different programming languages. During these years I've learnt a lot and giving results to my customers remains for me the most important thing which I will accomplish at any cost.
 I have many years experience creating software, mobile apps and websites for both myself, and for clients. I have experience programming in many different languages.
 
 - 🔭 I’m currently working on Many open source projects. 
@@ -16,8 +17,6 @@ I have many years experience creating software, mobile apps and websites for bot
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAvolio)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAvolio&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarioAvolio)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MarioAvolio)  
 

@@ -1,22 +1,25 @@
 ### Hi there 👋, My name is Mario
 #### I am a Computer Scientist
-![I am a Computer Scientist](https://images.pexels.com/photos/577585/pexels-photo-577585.jpeg?cs=srgb&dl=pexels-kevin-ku-577585.jpg&fm=jpg)
+![I am a Computer Scientist](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?cs=srgb&dl=pexels-thisisengineering-3861972.jpg&fm=jpg)
+
+
+
 
 As you may have noticed software creation's demand is increasing nowadays. Unfortunately there's few people who are able to deliver satisfying results to their costumers. That's why I've started to give this service, not only has my passion given me many years of experience in software creation but also, especially thanks to my studies, I was able to learn different programming languages. During these years I've learnt a lot and giving results to my customers remains for me the most important thing which I will accomplish at any cost.
-I have many years experience creating software, mobile apps and websites for both myself, and for clients. I have experience programming in many different languages.
 
-- 🔭 I’m currently working on Many open source projects. 
-- 🌱 I’m currently learning Python 
-- 👯 I’m looking to collaborate on Everyone 
+
+Skills: Software Engineering, Data Science, Machine Learning, Artificial Intelligence and Robot Vision. 
+
 - 📫 How to reach me: marioavolio@protonmail.com 
-- ⚡ Fun fact: I love coding 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarioAvolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://www.marioavolio.ml/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MarioAvolio)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/MarioAvolio/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://marioavolio.netlify.app/)  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarioAvolio)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MarioAvolio&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MarioAvolio)  
 
 ![GitHub metrics](https://metrics.lecoq.io/MarioAvolio)  
 

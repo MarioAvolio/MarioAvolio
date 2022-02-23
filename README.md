@@ -1,5 +1,5 @@
-### Hi there 👋, My name is Mario
-#### I am a Computer Scientist
+## Hi there 👋, My name is Mario
+### I am a Computer Scientist
 ![I am a Computer Scientist](https://images.pexels.com/photos/5474295/pexels-photo-5474295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 
@@ -8,8 +8,15 @@
 As you may have noticed software creation's demand is increasing nowadays. Unfortunately there's few people who are able to deliver satisfying results to their costumers. That's why I've started to give this service, not only has my passion given me many years of experience in software creation but also, especially thanks to my studies, I was able to learn different programming languages. During these years I've learnt a lot and giving results to my customers remains for me the most important thing which I will accomplish at any cost.
 
 
-Skills: Software Engineering, Data Science, Machine Learning, Artificial Intelligence and Robot Vision. 
+#### Skills: 
+- Software Engineering
+- Data Science
+- Machine Learning
+- Artificial Intelligence 
+- Robot Vision. 
 
+
+#### Contact
 - 📫 How to reach me: marioavolio@protonmail.com 
 
 

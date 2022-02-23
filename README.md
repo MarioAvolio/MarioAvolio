@@ -3,7 +3,7 @@
 ![I am a Computer Scientist](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?cs=srgb&dl=pexels-thisisengineering-3861972.jpg&fm=jpg)
 
 
-
+---
 
 As you may have noticed software creation's demand is increasing nowadays. Unfortunately there's few people who are able to deliver satisfying results to their costumers. That's why I've started to give this service, not only has my passion given me many years of experience in software creation but also, especially thanks to my studies, I was able to learn different programming languages. During these years I've learnt a lot and giving results to my customers remains for me the most important thing which I will accomplish at any cost.
 

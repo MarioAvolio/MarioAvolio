@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Mario
 #### I am a Computer Scientist
-![I am a Computer Scientist](https://images.pexels.com/photos/3861972/pexels-photo-3861972.jpeg?cs=srgb&dl=pexels-thisisengineering-3861972.jpg&fm=jpg)
+![I am a Computer Scientist](https://images.pexels.com/photos/5474295/pexels-photo-5474295.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260)
 
 
 ---

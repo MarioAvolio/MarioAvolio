@@ -12,6 +12,7 @@ As you may have noticed software creation's demand is increasing nowadays. Unfor
 - Software Engineering
 - Data Science
 - Machine Learning
+- Deep Learning
 - Artificial Intelligence 
 - Robot Vision. 
 

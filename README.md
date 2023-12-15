@@ -1,32 +1,33 @@
-<h1 align="center">Greetings, I am Mario Avolio,</h1>
-<h3 align="center">a seasoned professional in the realm of Computer Vision & Artificial Intelligence.</h3>
+# Hi there, I'm Mario Avolio! 👋
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=marioavolio&label=Profile%20views&color=0e75b6&style=flat" alt="marioavolio" /> </p>
+## About Me
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=marioavolio" alt="marioavolio" /></a> </p>
+I am an accomplished Computer Vision & Artificial Intelligence Engineer, holding a distinguished Bachelor's Degree in Computer Science from the University of Calabria, Italy, and an advanced Master's Degree from the University of Milano Bicocca. My expertise lies in the intricate realms of Deep Learning, Machine Learning, and Computer & Robot Vision.
 
-- 🔭 I’m currently working on [Face Detection](https://github.com/MarioAvolio/Face-Detection-Avolio-Thesis)
+## Technical Arsenal
 
-- 🌱 I’m currently learning **PyTorch, Python, Keras, TensorFlow, and OpenCV**
+- **Languages:** Python
+- **Frameworks:** PyTorch, TensorFlow, Keras
+- **Tools:** OpenCV
+- **Skills:** Deep Learning, Machine Learning, Computer Vision
 
-- 👯 I’m looking to collaborate on [DeMaCS-UNICAL](https://github.com/DeMaCS-UNICAL/BrainyBot)
+## Professional Background
 
-- 👨‍💻 All of my projects are available at [marioavolio.it](marioavolio.it)
+With a strong and diversified foundation in both Data Science and Software Engineering, I excel at extracting nuanced insights from complex datasets and architecting reliable, scalable software solutions.
 
-- 📫 How to reach me **contact@marioavolio.it**
+## Commitment to Excellence
 
-- 📄 Know about my experiences [https://github.com/MarioAvolio/my-cv-latex/blob/master/Mario_Avolio_CV.pdf](https://github.com/MarioAvolio/my-cv-latex/blob/master/Mario_Avolio_CV.pdf)
+My commitment to innovation is paralleled by my unwavering dedication to professional excellence. Thriving within dynamic and demanding environments, I consistently bridge the chasm between theoretical concepts and pragmatic implementations.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marioavolio" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marioavolio" height="30" width="40" /></a>
-</p>
+## Let's Connect!
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+Should you be seeking to forge partnerships within the domains of AI, Computer Vision, or the intricate intersection of Data Science and Software Engineering, I wholeheartedly invite you to establish a connection. Together, let us embark on a journey underpinned by innovation, meticulous craftsmanship, and the transformative potential of technology.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=marioavolio&show_icons=true&locale=en&layout=compact" alt="marioavolio" /></p>
+## Contact Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=marioavolio&show_icons=true&locale=en" alt="marioavolio" /></p>
+- Email: [contact@marioavolio.it](mailto:contact@marioavolio.it)
+- Website: [marioavolio.it](https://marioavolio.it)
+- LinkedIn: [Mario Avolio](https://www.linkedin.com/in/MarioAvolio/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=marioavolio&" alt="marioavolio" /></p>
+Yours sincerely,
+Mario Avolio

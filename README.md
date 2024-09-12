@@ -1,33 +1,59 @@
-# Hi there, I'm Mario Avolio! 👋
+# Mario Avolio
+
+**Computer & Robot Vision · Artificial Intelligence**
+
+[GitHub](https://github.com/MarioAvolio) · [GitLab](https://gitlab.com/MarioAvolio) · [LinkedIn](https://www.linkedin.com/in/MarioAvolio) · [Email](mailto:marioavolio@protonmail.com)
+
+---
 
 ## About Me
 
-I am an accomplished Computer Vision & Artificial Intelligence Engineer, holding a distinguished Bachelor's Degree in Computer Science from the University of Calabria, Italy, and an advanced Master's Degree from the University of Milano Bicocca. My expertise lies in the intricate realms of Deep Learning, Machine Learning, and Computer & Robot Vision.
+I am a passionate computer scientist specializing in computer and robot vision, artificial intelligence, and natural language processing. My academic journey has equipped me with a strong foundation in advanced machine learning techniques, and I am particularly interested in the application of self-supervised learning and model adaptation in vision systems.
 
-## Technical Arsenal
+## Education
 
-- **Languages:** Python
-- **Frameworks:** PyTorch, TensorFlow, Keras
-- **Tools:** OpenCV
-- **Skills:** Deep Learning, Machine Learning, Computer Vision
+**M.S. in Computer Science**  
+*University of Milano Bicocca, Milan, Italy*  
+*Sept. 2021 - March 2024*  
+- **Thesis:** Self-Supervised Learning and Model Adaptation for Facial Attribute Classification  
+- **Keywords:** Facial Attribute Classification, MAAD-Face Dataset, CelebA Dataset, Self-Supervised Learning, DINOv2, LoRA, PEViT, Dataset Quantization
 
-## Professional Background
+**B.S. in Computer Science**  
+*University of Calabria, Arcavacata, Italy*  
+*Sept. 2018 - Sept. 2021*  
+- **Thesis:** Dalla visione all’azione: moduli di ragionamento automatico full-stack  
+- **Keywords:** Answer Set Programming, DLV2, OpenCV, Knowledge Representation, Sense-Think-Act paradigm
 
-With a strong and diversified foundation in both Data Science and Software Engineering, I excel at extracting nuanced insights from complex datasets and architecting reliable, scalable software solutions.
+## Skills
 
-## Commitment to Excellence
+- **Programming Languages:** Python, Java, C++, C, MATLAB, Perl, Bash
+- **Frameworks & Libraries:** TensorFlow, PyTorch, Keras, Scikit-learn, OpenCV, Hugging Face Transformers, Haystack, LangChain
+- **Computer Vision:** Adaptive Algorithms, Image Quality Assessment, Object & Image Recognition, Multimedia Indexing & Retrieval
+- **Robotics:** SLAM, Bayesian Filtering, Robot Motion & Perception
+- **NLP:** Text Classification, Named-Entity Recognition, Topic Extraction, Text Summarization, Question Answering
+- **Optimization:** LINGO, OPL-CPLEX
+- **Databases:** MariaDB, SQLite, MySQL, PostgreSQL, MongoDB, Neo4J
+- **Tools & Technologies:** Git, Docker, VirtualBox, GitLab CI/CD, GitHub Actions, Linux, Android Studio, Unity3D
 
-My commitment to innovation is paralleled by my unwavering dedication to professional excellence. Thriving within dynamic and demanding environments, I consistently bridge the chasm between theoretical concepts and pragmatic implementations.
+## Publications
 
-## Let's Connect!
+- **From Vision to Execution: Enabling Knowledge Representation and Reasoning in Hybrid Intelligent Robots Playing Mobile Games**  
+  *KR2023, Rhodes, Greece | September 2-8, 2023*  
+  [Link to Paper](https://proceedings.kr.org/2023/5/)  
+  - Explores the automation of interactions with touch surfaces using a delta robot for mobile games. Integrates AI techniques like vision processing and answer set programming.
 
-Should you be seeking to forge partnerships within the domains of AI, Computer Vision, or the intricate intersection of Data Science and Software Engineering, I wholeheartedly invite you to establish a connection. Together, let us embark on a journey underpinned by innovation, meticulous craftsmanship, and the transformative potential of technology.
+- **An Iterative Abstraction and Decision-Making Pipeline for Answer Set Programming in Robots Playing Mobile Games**  
+  *Submitted to ICLP 2024, Dallas, Texas | October 11-17, 2024*
 
-## Contact Me
+## Honors & Awards
 
-- Email: [contact@marioavolio.it](mailto:contact@marioavolio.it)
-- Website: [marioavolio.it](https://marioavolio.it)
-- LinkedIn: [Mario Avolio](https://www.linkedin.com/in/MarioAvolio/)
+- **Best Students 2020 Award**  
+  *University of Calabria, July 2021*
 
-Yours sincerely,
-Mario Avolio
+## Projects
+
+Check out my [GitHub repositories](https://github.com/MarioAvolio) for detailed insights into my projects and contributions to open-source initiatives.
+
+## Contact
+
+Feel free to reach out via [email](mailto:marioavolio@protonmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/MarioAvolio).

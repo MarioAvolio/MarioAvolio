@@ -1,42 +1,37 @@
 # 👋 Hi, I'm Mario Avolio
 
-## 👨‍💻 About Me
+### 👨‍💻 Software Engineer | 🤖 AI and Robotics Enthusiast | 📊 Researcher
 
-I'm a Computer Science graduate with a strong passion for **Computer Vision**, **Robotics**, and **Natural Language Processing**. Currently pursuing my Master's degree at the University of Milano Bicocca, I focus on advanced topics like **Self-Supervised Learning** and **Model Adaptation** in the field of **Facial Attribute Classification**.
+Welcome to my GitHub! I’m a software developer and researcher passionate about Artificial Intelligence, Computer Vision, and Robotics. My work focuses on building intelligent systems that can solve complex tasks, whether through vision-based algorithms, natural language processing, or robotics.
 
-During my academic journey, I developed robust projects like **BrainyBot**, a robotic system that autonomously solves complex mobile games using **Answer Set Programming** and **Object Recognition**. This work has been recognized with awards and research publications in conferences such as KR2023, where I co-authored a paper exploring the interaction of robots with mobile games through hybrid AI techniques.
+## 🧠 About Me
 
-## 🛠️ My Expertise
+- 🎓 **Master’s in Computer Science** with a focus on advanced machine learning and AI techniques.
+- 💡 Strong foundation in developing both academic and practical projects, including autonomous robots, machine learning models, and AI-driven applications.
+- 🚀 I enjoy experimenting with new technologies and contributing to innovative projects that push the boundaries of AI and robotics.
 
-- **Programming Languages**: Python, Java, C++, MATLAB, Perl, Bash
-- **Machine Learning**: TensorFlow, PyTorch, Hugging Face Transformers
-- **Computer Vision**: Image Recognition, Object Detection, Multimedia Indexing
-- **Robotics**: SLAM, Bayesian Filtering, Robot Perception
-- **NLP**: Text Classification, Summarization, Question Answering
-- **Automation & CI/CD**: GitLab CI/CD, GitHub Actions, Docker
-- **Databases**: MySQL, PostgreSQL, MongoDB, Neo4J
+## 🔧 Skills and Expertise
 
-## 🎓 Education
+- **Programming**: Proficient in several languages such as Python, Java, and C++, with a focus on building scalable, efficient solutions.
+- **Artificial Intelligence**: Experience in **machine learning**, **computer vision**, and **natural language processing**, using a variety of tools and frameworks.
+- **Robotics**: Skilled in developing algorithms for **robot perception**, motion, and decision-making, as well as integrating them into hardware systems.
+- **Software Development**: Extensive knowledge of version control, automation, and deployment tools to streamline development workflows.
 
-- **M.Sc. in Computer Science** (110/110 Cum Laude), University of Milano Bicocca  
-  Thesis: *Self-Supervised Learning and Model Adaptation for Facial Attribute Classification*
+## 💼 Projects
+
+I have worked on a variety of projects, from developing AI systems that can understand and interact with their environment to robots that solve puzzles autonomously. A few highlights include:
+
+- **Facial Recognition and Attribute Classification**: Worked on enhancing model performance for recognizing facial attributes using cutting-edge self-supervised learning techniques.
+- **Robotic Game Solver**: Developed a robot capable of solving mobile games autonomously, combining object recognition and AI-driven reasoning systems.
   
-- **B.Sc. in Computer Science** (108/110), University of Calabria  
-  Thesis: *Dalla visione all’azione: moduli di ragionamento automatico full-stack*  
+## 🌱 Current Interests
 
-## 📚 Research & Publications
+I’m currently diving deeper into the intersection of AI and robotics, exploring how self-supervised learning and hybrid AI systems can lead to more adaptable and intelligent machines. I’m also interested in collaborating on open-source projects and learning about new advancements in machine learning.
 
-I’m a co-author of research in hybrid intelligence and robotics, including contributions to international conferences. My latest publication at **KR2023** delves into the automation of robot interactions for mobile games through **Answer Set Programming** and **AI vision models**.
+## 📫 Get in Touch
 
-- [KR2023 Publication: From Vision to Execution](https://proceedings.kr.org/2023/5/)
+Feel free to explore my repositories and connect with me:
 
-## 🌱 What I'm currently working on
-
-I’m currently exploring **Self-Supervised Learning** for facial recognition tasks, improving model efficiency using techniques like **LoRA** and **PEViT**.
-
-## 🔗 Let's Connect
-
-- [GitHub](https://github.com/MarioAvolio)
-- [GitLab](https://gitlab.com/MarioAvolio)
-- [LinkedIn](https://www.linkedin.com/in/MarioAvolio)
-
+- **GitHub**: [MarioAvolio](https://github.com/MarioAvolio)
+- **Email**: marioavolio@protonmail.com
+- **LinkedIn**: [MarioAvolio](https://www.linkedin.com/in/MarioAvolio)

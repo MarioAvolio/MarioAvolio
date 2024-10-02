@@ -39,6 +39,4 @@ I’m currently exploring **Self-Supervised Learning** for facial recognition ta
 - [GitHub](https://github.com/MarioAvolio)
 - [GitLab](https://gitlab.com/MarioAvolio)
 - [LinkedIn](https://www.linkedin.com/in/MarioAvolio)
-- [Research on ArXiv](https://arxiv.org/abs/2304.07193)
-
 

@@ -1,37 +1,63 @@
-# 👋 Hi, I'm Mario Avolio
+# Mario Avolio
 
-### 👨‍💻 Software Engineer | 🤖 AI and Robotics Enthusiast | 📊 Researcher
+**Artificial Intelligence Engineer · Software Engineer**  
+Computer Vision -  Gen/Agentic AI -  Model Optimization -  Backend & Infra
 
-Welcome to my GitHub! I’m a software developer and researcher passionate about Artificial Intelligence, Computer Vision, and Robotics. My work focuses on building intelligent systems that can solve complex tasks, whether through vision-based algorithms, natural language processing, or robotics.
+***
 
-## 🧠 About Me
+## 👋 About Me
 
-- 🎓 **Master’s in Computer Science** with a focus on advanced machine learning and AI techniques.
-- 💡 Strong foundation in developing both academic and practical projects, including autonomous robots, machine learning models, and AI-driven applications.
-- 🚀 I enjoy experimenting with new technologies and contributing to innovative projects that push the boundaries of AI and robotics.
+Hi, I'm Mario – an AI engineer and software engineer based in Italy, focused on building reliable, production‑ready machine learning systems.
 
-## 🔧 Skills and Expertise
+My work sits at the intersection of:
 
-- **Programming**: Proficient in several languages such as Python, Java, and C++, with a focus on building scalable, efficient solutions.
-- **Artificial Intelligence**: Experience in **machine learning**, **computer vision**, and **natural language processing**, using a variety of tools and frameworks.
-- **Robotics**: Skilled in developing algorithms for **robot perception**, motion, and decision-making, as well as integrating them into hardware systems.
-- **Software Development**: Extensive knowledge of version control, automation, and deployment tools to streamline development workflows.
+- **Computer Vision** (super‑resolution, object detection, anomaly detection, depth estimation)
+- **Gen & Agentic AI** (RAG, agents, workflow orchestration)
+- **Model Optimization** (quantization, pruning, distillation, deployment)
+- **Backend & Infrastructure** (FastAPI, cloud, Docker, CI/CD)
 
-## 💼 Projects
+I enjoy taking ideas from **research prototypes** to **robust services**, optimizing both models and systems.
 
-I have worked on a variety of projects, from developing AI systems that can understand and interact with their environment to robots that solve puzzles autonomously. A few highlights include:
+***
 
-- **Facial Recognition and Attribute Classification**: Worked on enhancing model performance for recognizing facial attributes using cutting-edge self-supervised learning techniques.
-- **Robotic Game Solver**: Developed a robot capable of solving mobile games autonomously, combining object recognition and AI-driven reasoning systems.
-  
-## 🌱 Current Interests
+## 🛠 Tech Stack
 
-I’m currently diving deeper into the intersection of AI and robotics, exploring how self-supervised learning and hybrid AI systems can lead to more adaptable and intelligent machines. I’m also interested in collaborating on open-source projects and learning about new advancements in machine learning.
+**Core Languages**
 
-## 📫 Get in Touch
+- Python, SQL, Bash  
+- Also used: R, Java, C++, JavaScript
 
-Feel free to explore my repositories and connect with me:
+**Machine Learning & AI**
 
-- **GitHub**: [MarioAvolio](https://github.com/MarioAvolio)
-- **Email**: marioavolio@protonmail.com
-- **LinkedIn**: [MarioAvolio](https://www.linkedin.com/in/MarioAvolio)
+- Vision: super‑resolution, detection, classification, segmentation, depth, instance retrieval  
+- Optimization: quantization, pruning, distillation  
+- Gen/Agentic AI: RAG, fine‑tuning optimization, agentic workflows
+
+**Frameworks & Tools**
+
+- **Agentic / Orchestration:** LangChain, LangGraph, Microsoft Agent Framework, A2A, MCP  
+- **ML / Data:** PyTorch ecosystem, NumPy, Pandas  
+- **Serving / Backend:** FastAPI, Pydantic, AsyncIO, Pytest  
+- **Vector DBs:** ChromaDB, FAISS, Pinecone  
+
+**Cloud & Infra**
+
+- Azure (AKS, APIM, Storage, Caches, Databases, Service Bus)  
+- GCP, AWS  
+- Docker, Git, Linux (Debian, RHEL)
+
+***
+
+## 🎓 Education
+
+- **M.S. in Computer Science** – University of Milano‑Bicocca  
+- **B.S. in Computer Science** – University of Calabria  
+
+***
+
+## 🤝 Let's Connect
+
+- GitHub: **[@MarioAvolio](https://github.com/MarioAvolio)**  
+- Email: **marioavolio@protonmail.com**
+
+If you're working on **computer vision**, **agentic AI**, or **model optimization**, feel free to reach out or open an issue/discussion.
